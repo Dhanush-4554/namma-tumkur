@@ -4,6 +4,14 @@
     display: none;
 }
 
+@media (min-width:300px) and (max-width:950px) {
+
+    #explore .ex-h2{
+        padding-top: 100px;
+    }
+    
+}
+
 
 /* navbar css */
 
