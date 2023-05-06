@@ -52,7 +52,7 @@ a.nav-link {
 .discover {
     height: 600px;
     padding: 200px 0 0 100px;
-    background: url('/back.webp');
+    background: url('back.webp');
     background-position: right;
     opacity: .87;
     background-repeat: no-repeat;
